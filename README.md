@@ -134,16 +134,19 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -157,4 +160,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
