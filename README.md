@@ -161,4 +161,8 @@ Happy Coding! 🚀
 | ------- |
 | [0101-symmetric-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
+## Database
+|  |
+| ------- |
+| [1174-immediate-food-delivery-ii](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1174-immediate-food-delivery-ii) |
 <!---LeetCode Topics End-->
