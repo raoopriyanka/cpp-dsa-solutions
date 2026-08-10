@@ -21,21 +21,6 @@ This repository documents my DSA journey through consistent problem solving and 
 
 ---
 
-## 🎯 Current Progress
-
-- [ ] Arrays
-- [ ] Strings
-- [ ] Linked List
-- [ ] Stack
-- [ ] Queue
-- [ ] Trees
-- [ ] Graphs
-- [ ] Dynamic Programming
-
-Progress will be updated as more problems are solved.
-
----
-
 ## 💡 Why This Repository?
 
 This repository serves as:
