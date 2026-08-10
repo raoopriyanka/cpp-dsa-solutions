@@ -62,6 +62,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -90,9 +93,14 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Database
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0182-duplicate-emails) |
 | [1174-immediate-food-delivery-ii](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1174-immediate-food-delivery-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
