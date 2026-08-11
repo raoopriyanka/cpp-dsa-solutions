@@ -84,6 +84,7 @@ Happy Coding! 🚀
 | ------- |
 | [0182-duplicate-emails](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0182-duplicate-emails) |
 | [1174-immediate-food-delivery-ii](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1174-immediate-food-delivery-ii) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
 |  |
 | ------- |
