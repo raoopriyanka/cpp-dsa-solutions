@@ -88,11 +88,13 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
