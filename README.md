@@ -105,10 +105,12 @@ Happy Coding! 🚀
 | [0128-longest-consecutive-sequence](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
