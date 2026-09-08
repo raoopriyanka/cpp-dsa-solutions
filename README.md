@@ -101,6 +101,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0217-contains-duplicate) |
@@ -137,4 +138,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
