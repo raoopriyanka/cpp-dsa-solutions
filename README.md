@@ -101,6 +101,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -154,4 +155,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
