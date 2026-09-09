@@ -89,6 +89,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0169-majority-element) |
@@ -122,6 +123,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -148,4 +150,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3871-count-commas-in-range-ii](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/3871-count-commas-in-range-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
