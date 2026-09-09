@@ -144,4 +144,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
