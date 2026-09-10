@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0049-group-anagrams](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0238-product-of-array-except-self) |
@@ -159,6 +160,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
