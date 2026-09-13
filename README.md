@@ -82,6 +82,7 @@ Happy Coding! 🚀
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0182-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1045-customers-who-bought-all-products) |
