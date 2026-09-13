@@ -83,6 +83,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0182-duplicate-emails) |
+| [0610-triangle-judgement](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
