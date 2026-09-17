@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [1164-product-price-at-a-given-date](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1321-restaurant-growth](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1341-movie-rating) |
 | [1729-find-followers-count](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
