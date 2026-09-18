@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT 'Low Salary' AS category,
        COUNT(*) AS accounts_count
 FROM Accounts
