@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0610-triangle-judgement](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1045-customers-who-bought-all-products) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1070-product-sales-analysis-iii](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/raoopriyanka/cpp-dsa-solutions/tree/master/1164-product-price-at-a-given-date) |
